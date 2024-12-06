@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alx-smt
 - 👀 I’m interested in developing websites.
 - 🌱 I’m currently learning Python.
-- 📫 How to reach me? ittoint @ DISCORD or alex@ittoint.online
+- 📫 How to reach me? innakin @ DISCORD or alex@ittoint.online
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I speak 4 languages: English, Russian, German, Estonian
 
